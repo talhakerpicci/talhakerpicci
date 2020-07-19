@@ -1,11 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+![GitHub followers](https://img.shields.io/github/followers/N1ght-Fury?label=Follow%20%40N1ght-Fury&style=for-the-badge)
+
+My name is **Talha Kerpicci**. I'm studying computer engineering at Dogus University. 
+
+🔭 I’m currently working on a book app application for android. Available soon!
+
+![N1ght-Fury's github stats](https://github-readme-stats.vercel.app/api/?username=N1ght-Fury&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **N1ght-Fury/N1ght-Fury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
