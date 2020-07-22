@@ -12,13 +12,15 @@ My name is **Talha Kerpicci**. I'm studying computer engineering at Dogus Univer
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=26A65B)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=26A65B)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=26A65B)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox-Browser&logoColor=white&color=26A65B)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/N1ght-Fury/N1ght-Fury">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght-Fury&theme=dark&hide_langs_below=4" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght-Fury&theme=dark&hide_langs_below=4" />
 </a>
+
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=N1ght-Fury&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="N1ght-Fury's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=N1ght-Fury&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="N1ght-Fury's github stats" />
 </a>
 
 <!--
