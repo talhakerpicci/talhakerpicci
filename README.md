@@ -1,6 +1,7 @@
-# Hi there 👋
+## Hi there, I'm [Talha!](https://www.talhakerpicci.com/)👋
 
-![GitHub followers](https://img.shields.io/github/followers/N1ght-Fury?color=26A65B&label=Follow%20%40N1ght-Fury&style=for-the-badge)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/talha-kerpicci-b75a91170/)
+![GitHub followers](https://img.shields.io/github/followers/N1ght-Fury?style=social)
 
 My name is **Talha Kerpicci**. I'm studying computer engineering at Dogus University. 
 
