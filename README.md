@@ -7,7 +7,7 @@ My name is **[Talha Kerpicci](https://www.talhakerpicci.com/)**. I'm studying co
 
 💻 I’m currently working on a book app application for android 📱. Available soon!
 
-## 🔧 Technolgies & Tools
+## ⚡ Technolgies & Tools
 <!--![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=26A65B)-->
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=26A65B)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=26A65B)
@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔧
 -->
