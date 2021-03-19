@@ -5,7 +5,7 @@
 
 My name is **[Talha Kerpicci](https://www.talhakerpicci.com/)**. I'm studying computer engineering at Dogus University. 
 
-💻 I’m currently working on a Simple Library 📱. [Available now!](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)
+💻 I’m currently working on Simple Library 📱. [Available now!](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)
 
 ## ⚡ Technolgies & Tools
 <!--![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=26A65B)-->
