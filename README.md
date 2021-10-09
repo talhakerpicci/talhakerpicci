@@ -27,7 +27,7 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/N1ght-Fury/N1ght-Fury">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght-Fury&hide=html,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght-Fury&hide=html,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/N1ght-Fury/N1ght-Fury">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ght-Fury&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="N1ght-Fury's github stats" />
