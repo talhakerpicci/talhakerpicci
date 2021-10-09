@@ -16,7 +16,7 @@
 #
 
 * 💻 I'm currently working on Simple Library 📱. [Available now!](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)
-* :four_leaf_clover: I'm learning to write rest apis with **Go**
+* :four_leaf_clover: I'm learning **Go** to write rest apis 
 * 🐧 I'm into Linux OS! ~~I use arch btw~~ <a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="sqlite" width="20" height="20"/> </a>
 
 #
