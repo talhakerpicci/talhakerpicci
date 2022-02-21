@@ -3,13 +3,13 @@
 <h4 align="center">I'm studying computer engineering at Dogus University.</h3>
 <h4 align="center">I'm also working part time at Borda Technology as a Flutter Developer.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=N1ght-Fury&title=MultiLanguage,Commit,Followers,Repositories,Stars,Issues"/></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhakerpicci&title=MultiLanguage,Commit,Followers,Repositories,Stars,Issues"/></a></p>
 
 <p align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/talha-kerpicci-b75a91170/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a></td>
     <td><a href="https://twitter.com/talhakerpicci"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social"></a></td>
-    <td><a href="https://github.com/N1ght-Fury?tab=followers"><img src="https://img.shields.io/github/followers/N1ght-Fury?style=social"></a></td>
+    <td><a href="https://github.com/talhakerpicci?tab=followers"><img src="https://img.shields.io/github/followers/talhakerpicci?style=social"></a></td>
   </tr>
  </table>
 
@@ -26,18 +26,18 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/N1ght-Fury/N1ght-Fury">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght-Fury&hide=html,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/talhakerpicci/talhakerpicci">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhakerpicci&hide=html,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/N1ght-Fury/N1ght-Fury">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ght-Fury&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="N1ght-Fury's github stats" />
+<a href="https://github.com/talhakerpicci/talhakerpicci">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhakerpicci&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ght-Fury&theme=dark" alt="N1ght-Fury" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhakerpicci&theme=dark" alt="talhakerpicci" /></p>
 
 
 <!--
-**N1ght-Fury/N1ght-Fury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**talhakerpicci/talhakerpicci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
