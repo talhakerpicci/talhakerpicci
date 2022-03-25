@@ -9,9 +9,12 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/talha-kerpicci-b75a91170/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a></td>
     <td><a href="https://twitter.com/talhakerpicci"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social"></a></td>
-    <td><a href="https://github.com/talhakerpicci?tab=followers"><img src="https://img.shields.io/github/followers/talhakerpicci?style=social"></a></td>
+    <td><a href="http://github.com/talhakerpicci?tab=followers"><img src="https://img.shields.io/github/followers/talhakerpicci?style=social"></a></td>
+    <td><img src="https://komarev.com/ghpvc/?username=PsychotherapistSam" alt="PsychotherapistSam"/></td>
   </tr>
  </table>
+
+
 
 #
 
