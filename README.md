@@ -18,9 +18,10 @@
 
 #
 
-* 💻 My application, 📱 [download here](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)
+* 📱 My application, Simple Library, [download here](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)
 * :four_leaf_clover: I'm learning **Go** to write restful services 
-* 🐧 I'm into Linux OS! ~~I use arch btw~~ <a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="sqlite" width="20" height="20"/> </a>
+* 🐧 I'm into Linux OS! I use arch btw <a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="sqlite" width="20" height="20"/> </a>
+* 💻 I'm actively developing a social app that enables users to effortlessly track and share their movie, TV show, and anime experiences, enhancing their viewing journey.
 
 #
 
