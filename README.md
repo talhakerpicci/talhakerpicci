@@ -3,7 +3,7 @@
 <h4 align="center">I'm working at Borda Technology as a Flutter Developer.</h3>
 <h4 align="center">I'm also learning <bold>go</bold> to develop RESTful services.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhakerpicci&title=MultiLanguage,Commit,Followers,Repositories,Stars,Issues"/></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhakerpicci&title=MultiLanguage,Commit,Followers,Repositories,Stars,Issues"/></a></p>
 
 <p align="center">
   <tr>
@@ -21,7 +21,7 @@
 * 📱 My application, Simple Library, [download here](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)
 * :four_leaf_clover: I'm learning **Go** to write restful services 
 * 🐧 I'm into Linux OS! I use arch btw <a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="sqlite" width="20" height="20"/> </a>
-* 💻 I'm actively developing a social app that enables users to effortlessly track and share their movie, TV show, and anime experiences, enhancing their viewing journey
+* 💻 I'm actively developing a social app that enables users to effortlessly track and share their movie, TV show, and anime experiences, enhancing their viewing journey. Coming soon! Check it out: https://movieparadise.app/
 
 #
 
