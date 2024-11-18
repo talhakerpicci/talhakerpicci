@@ -38,7 +38,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhakerpicci&hide=html,gdscript,roff,latte,qml,typescript,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" alt="Top Languages" style="height: 195px; width: auto;" />
     </a>
     <a href="https://github.com/talhakerpicci/talhakerpicci">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhakerpicci&theme=dark" alt="Streak Stats" style="height: 195px; width: auto;" />
+        <img src="https://streak-stats.demolab.com?user=talhakerpicci&theme=dark" alt="Streak Stats" style="height: 195px; width: auto;" />
     </a>
 </div>
 
