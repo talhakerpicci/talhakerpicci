@@ -11,7 +11,7 @@
 - 🎬 Built **[Movie Paradise](https://movieparadise.app/)**, a social app to track and share your movie, TV, and anime journey
 - 📱 Also shipped **[Simple Library](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)** on Google Play
 - 🍀 Currently sharpening my **Go** skills to write RESTful services
-- 🐧 Linux enthusiast, I use Arch btw ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+- 🐧 Linux enthusiast, I use Arch btw
 
 ---
 
