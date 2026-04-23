@@ -11,7 +11,7 @@
 - 🎬 Built **[Movie Paradise](https://movieparadise.app/)**, a social app to track and share your movie, TV, and anime journey
 - 📱 Also shipped **[Simple Library](https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary)** on Google Play
 - 🍀 Currently sharpening my **Go** skills to write RESTful services
-- 🐧 Linux enthusiast, I use Arch btw <a href="https://archlinux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="16" height="16"/></a>
+- 🐧 Linux enthusiast, I use Arch btw <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="16" height="16"/>
 
 ---
 
